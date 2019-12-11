@@ -6,11 +6,52 @@
   margin-left: auto;
   position: absolute;
   top : 100%;
+  background-color : #ffffcc;
+  padding: 14px 16px;
+  border: 1.5% solid white;
+  height : 30%;
+  float : center;
+  text-align: center;
+}
+.container1 {
+  width: 97%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  position: absolute;
+  top : 130%;
   background-color : cornsilk;
   padding: 14px 16px;
   border: 1.5% solid white;
-  height : 100%;
-  float : center;
+  height : 60%;
+  float : left;
+  text-align: center;
+  font-size: 18;
+}
+.container2 {
+  width: 97%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  position: absolute;
+  top : 190%;
+  background-color : cornsilk;
+  padding: 14px 16px;
+  border: 1.5% solid white;
+  height : 60%;
+  float : left;
+  text-align: center;
+  font-size: 18;
+}
+.htph{
+  float : left;
+  width : 42%;
+}
+.htph1{
+  float : right;
+  width : 42%;
 }
 body{
   background-image: url('123.png');
